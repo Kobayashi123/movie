@@ -3,7 +3,7 @@
 ![Typescript](https://img.shields.io/badge/typescript-4.9.5-blue)
 ![React](https://img.shields.io/badge/React-18.2.0-green)
 
-![bird](https://github.com/Kobayashi123/movie/images/bird.png)
+![bird](https://github.com/Kobayashi123/movie/blob/main/images/bird.png)
 
 ## Description
 
