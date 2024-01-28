@@ -11,7 +11,7 @@ This is an application that allows you to search for movies and display their in
 
 The URL of this site is here.
 
-![https://f739438e.movie-njy.pages.dev/](https://f739438e.movie-njy.pages.dev/)
+[https://f739438e.movie-njy.pages.dev/](https://f739438e.movie-njy.pages.dev/)
 
 ## Requirement
 
